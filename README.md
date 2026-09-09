@@ -119,6 +119,8 @@ Travel agency website built as a custom WordPress theme.
 
 <div align="center">
 
+linkedin: linkedin.com
+
 <!-- Uncomment and replace the # with your real links -->
 <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6A00"/></a> -->
 <!-- <a href="#"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF6A00"/></a> -->
