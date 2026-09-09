@@ -93,11 +93,25 @@ Travel agency website built as a custom WordPress theme.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dilshad563&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true&icon_color=FF6A00&title_color=FF6A00" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilshad563&theme=gotham&hide_border=true&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Dilshad563&theme=gotham&hide_border=true&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshad563&layout=compact&theme=gotham&hide_border=true&title_color=FF6A00" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilshad563&theme=react-dark&hide_border=true&color=FF6A00&line=FF6A00&point=ffffff" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dilshad563&theme=gitdimmed&no-frame=true&margin-w=10&row=1&column=6"/>
 
 </div>
 
