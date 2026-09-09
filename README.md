@@ -107,19 +107,6 @@ Travel agency website built as a custom WordPress theme.
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dilshad563&theme=gitdimmed&no-frame=true&margin-w=10&row=1&column=6"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 ## 🌐 Connect With Me
 
