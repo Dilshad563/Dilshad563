@@ -6,10 +6,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dilshad563/Dilshad563/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Dilshad563/Dilshad563/output/github-contribution-grid-snake.svg" />
-</picture>
+
 
 <br/>
 
@@ -111,6 +108,10 @@ Travel agency website built as a custom WordPress theme.
 <br/>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dilshad563/Dilshad563/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Dilshad563/Dilshad563/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/>
 
